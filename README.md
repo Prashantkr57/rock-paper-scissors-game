@@ -18,4 +18,7 @@ From there you will need to figure out:
 
 You can find the "official" rules of the game on [the World Rock Paper Scissors Association website.](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/)
 
+![image](https://user-images.githubusercontent.com/67437394/212737060-ab332375-3495-41e0-b6f8-68f8d8a79059.png)
+
+![image](https://user-images.githubusercontent.com/67437394/212737160-dc0f5b35-ba4e-4438-9387-2017995dd523.png)
 
